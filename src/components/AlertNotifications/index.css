@@ -1,0 +1,47 @@
+.success-color {
+  color: #2dca73;
+}
+.error-color {
+  color: #ff0b37;
+}
+.warning-color {
+  color: #ffb800;
+}
+.info-color {
+  color: #0f81e0;
+}
+.alert-notifications-container {
+  width: 90%;
+  min-height: 100vh;
+  max-width: 600px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.main-heading {
+  text-align: center;
+  color: #0f172a;
+  font-size: 23px;
+  font-weight: bold;
+}
+.icon {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.content-container {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.status-heading {
+  margin-top: 0px;
+
+  font-size: 19px;
+  font-weight: 600;
+}
+.description {
+  color: #475569;
+  font-size: 15px;
+  font-weight: 500;
+}
